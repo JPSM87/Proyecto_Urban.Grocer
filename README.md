@@ -21,9 +21,6 @@ La fuente de documentación para este proyecto es la documentación de la API pr
 - **Generación de Token**: Función para crear un nuevo usuario y obtener el token de autenticación necesario para realizar solicitudes de API.
 - **Creación de Kits**: Función para crear nuevos kits utilizando el token de autenticación.
 - **Obtención de Kits**: Función para recuperar y verificar la información de un kit específico.
-- **Búsqueda de Kits**: Función para buscar kits por parámetros específicos.
-- **Eliminación de Kits**: Función para eliminar kits de la base de datos.
-- **Actualización de Kits**: Función para actualizar la información de un kit existente.
 
 ## Instrucciones para Ejecutar las Pruebas
 
